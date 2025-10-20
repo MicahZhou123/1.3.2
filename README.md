@@ -26,6 +26,11 @@ if (correctPositions == 4)
     {
       System.out.println("Congrats! You guessed the number!");
     }
+
+
+OUTPUT:
+
+<img width="1027" height="195" alt="Screenshot 2025-10-19 at 9 00 56 PM" src="https://github.com/user-attachments/assets/9c0145ef-fef6-4c22-9871-f1d308d7a39c" />
     else
     {
       System.out.println("Wrong!");
