@@ -20,15 +20,11 @@ if (g1 == r1)
 I then tell the user how many digits they got correct: 
 System.out.println("You have " + correctPositions + " digits in the correct position.");
 
-lastly, I check if they got all 4 digits correct. Else, I tell them that they are wrong. 
+lastly, I check if they got all 4 digits correct. If not, I print out nothing.
 
 if (correctPositions == 4)
     {
       System.out.println("Congrats! You guessed the number!");
-    }
-    else
-    {
-      System.out.println("Wrong!");
     }
 
 
